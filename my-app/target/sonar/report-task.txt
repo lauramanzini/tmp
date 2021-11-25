@@ -1,0 +1,6 @@
+projectKey=tmp
+serverUrl=http://localhost:9000
+serverVersion=9.1.0.47736
+dashboardUrl=http://localhost:9000/dashboard?id=tmp
+ceTaskId=AX0Ozk07RO_EuVqoaPBt
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AX0Ozk07RO_EuVqoaPBt
